@@ -6,7 +6,7 @@ export default function Content(){
             <div className="info">
                 <div>
                     <p id="name">ALI KHAN</p>
-                    <p id="profession">software developer</p>
+                    <p id="profession">Software Developer</p>
                     <div className="buttons">
                         <button id="email">Email</button>
                         <button id="linkedin">LinkedIn</button>
